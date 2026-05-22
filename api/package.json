@@ -1,0 +1,22 @@
+{
+  "name": "jobboard-api",
+  "version": "1.0.0",
+  "description": "JobBoard Backend API - Node.js + Express + Prisma + PostgreSQL",
+  "main": "build/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "build": "mkdir -p build && cp -r src/* build/",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "4.16.2",
+    "cors": "2.8.5",
+    "dotenv": "16.3.1",
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "prisma": "4.16.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

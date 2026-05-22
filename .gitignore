@@ -1,0 +1,27 @@
+# Dependencies — never commit these
+node_modules/
+
+# Build outputs — generated on server
+dist/
+build/
+
+# Environment files — NEVER commit, contains passwords
+.env
+*.env
+!.env.example
+
+# Prisma generated
+api/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Terraform (for later DevOps topics)
+*.tfstate
+*.tfstate.backup
+.terraform/
