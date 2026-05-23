@@ -433,7 +433,7 @@ http://YOUR-PUBLIC-IP:8080/api
 ```
 
 <!-- Add your API success screenshot here -->
-![API Health Check](screenshots/api-health-check.png)
+![API Health Check](https://github.com/PrajwalP0571/jobboard/blob/main/api.png)
 
 ---
 
@@ -480,7 +480,7 @@ sudo ss -ntpl | grep 80
 ```
 
 <!-- Add your Nginx default page screenshot here -->
-![Nginx Default Page](screenshots/nginx-default.png)
+![Nginx Default Page](nginx)
 
 ### Step 18 — Deploy Frontend to Nginx Document Root
 
