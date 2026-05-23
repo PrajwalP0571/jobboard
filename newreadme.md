@@ -433,7 +433,7 @@ http://YOUR-PUBLIC-IP:8080/api
 ```
 
 <!-- Add your API success screenshot here -->
-![API Health Check](https://github.com/PrajwalP0571/jobboard/blob/main/api.png)
+![API Health Check](api.png)
 
 ---
 
@@ -542,7 +542,7 @@ http://YOUR-PUBLIC-IP:8080/api →  API health check (JSON response)
 ```
 
 <!-- Add your final JobBoard application screenshot here -->
-![JobBoard Application Live](screenshots/jobboard-app.png)
+![JobBoard Application Live](jobboard.png)
 
 > 🎉 **If you see the JobBoard app — all three tiers are working correctly.** The database is running, the API is connected to it, the frontend is built and served through Nginx, and all layers are communicating.
 
