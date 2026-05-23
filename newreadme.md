@@ -148,35 +148,6 @@ Unlike a simple tutorial project, this is deployed on **real cloud infrastructur
 
 ---
 
-## 📸 Project Screenshots
-
-### Nginx Default Page — Confirms Web Server is Running
-
-> After installing Nginx, browse to `http://YOUR-PUBLIC-IP` to confirm port 80 is live before deploying the frontend.
-
-<!-- Add your Nginx default page screenshot here -->
-![Nginx Default Page](screenshots/nginx-default.png)
-
----
-
-### API Health Check — Backend Successfully Running
-
-> After starting the API with PM2, visit `http://YOUR-PUBLIC-IP:8080/api` to confirm the backend is live and connected to PostgreSQL.
-
-<!-- Add your API health check screenshot here -->
-![API Health Check](screenshots/api-health-check.png)
-
----
-
-### JobBoard Application — Live on Port 80
-
-> After deploying the React build to Nginx, the full application is accessible at `http://YOUR-PUBLIC-IP`.
-
-<!-- Add your JobBoard app screenshot here -->
-![JobBoard Application](screenshots/jobboard-app.png)
-
----
-
 ## 📁 Project Structure
 
 ```
