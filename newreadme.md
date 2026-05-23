@@ -480,7 +480,7 @@ sudo ss -ntpl | grep 80
 ```
 
 <!-- Add your Nginx default page screenshot here -->
-![Nginx Default Page](https://github.com/PrajwalP0571/jobboard/edit/main/newreadme.md#:~:text=newreadme.md-,nginx,-.png)
+![Nginx Default Page](nginx.png)
 
 ### Step 18 — Deploy Frontend to Nginx Document Root
 
